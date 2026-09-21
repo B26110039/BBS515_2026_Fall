@@ -1,1 +1,0 @@
-Merhaba, benim adım Erdi Özata. Hacettepe Üniversitesi Bilişim Enstitüsü Bilişim Sistemleri Tezsiz yüksek Lisans programı öğrencisiyim. Programa bilimsel hazırlık programı ile başladım. Makina Mühendisiyim. Daha önce programlama deneyimim olmadı. Bu ders kapsamında JAVA teknolojisi ile nesne yönelimli programlama bilgi ve becerimi geliştirmeyi amaçlıyorum.
